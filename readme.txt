@@ -1,4 +1,2 @@
 first git two
-this changed by master and featrue branch
-
-
+changed two readme by dev branch
